@@ -1,1 +1,3 @@
 
+source文件夹存放程序文件，其中homework2_pre.py用于数据预处理，homework2.py用于运行Apriori算法
+result文件夹存放处理后的数据association_mining.csv，以及运行结果文件frequent_items.txt，association_rules_by_confidence.txt，association_rules_by_lift.txt

@@ -1,0 +1,192 @@
+frequent_item_set	support
+('PT_8',)	0.899
+('PTD_otc alterations permit',)	0.899
+('PTD_otc alterations permit', 'PT_8')	0.899
+('PCTD_wood frame (5)',)	0.575
+('PCT_5.0',)	0.575
+('PCT_5.0', 'PCTD_wood frame (5)')	0.575
+('ECT_5.0',)	0.570
+('ECTD_wood frame (5)',)	0.570
+('ECT_5.0', 'ECTD_wood frame (5)')	0.570
+('PCT_5.0', 'ECT_5.0')	0.563
+('ECTD_wood frame (5)', 'PCTD_wood frame (5)')	0.563
+('ECT_5.0', 'PCTD_wood frame (5)')	0.563
+('PCT_5.0', 'ECTD_wood frame (5)')	0.563
+('ECT_5.0', 'ECTD_wood frame (5)', 'PCTD_wood frame (5)')	0.563
+('PCT_5.0', 'ECTD_wood frame (5)', 'PCTD_wood frame (5)')	0.563
+('PCT_5.0', 'ECT_5.0', 'ECTD_wood frame (5)')	0.563
+('PCT_5.0', 'ECT_5.0', 'PCTD_wood frame (5)')	0.563
+('ECT_5.0', 'ECTD_wood frame (5)', 'PCTD_wood frame (5)', 'PCT_5.0')	0.563
+('PTD_otc alterations permit', 'PCT_5.0')	0.514
+('PT_8', 'PCTD_wood frame (5)')	0.514
+('PTD_otc alterations permit', 'PCTD_wood frame (5)')	0.514
+('PCT_5.0', 'PT_8')	0.514
+('PTD_otc alterations permit', 'PCT_5.0', 'PCTD_wood frame (5)')	0.514
+('PCT_5.0', 'PT_8', 'PCTD_wood frame (5)')	0.514
+('PTD_otc alterations permit', 'PCT_5.0', 'PT_8')	0.514
+('PTD_otc alterations permit', 'PT_8', 'PCTD_wood frame (5)')	0.514
+('PT_8', 'PCTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0')	0.514
+('PTD_otc alterations permit', 'ECTD_wood frame (5)')	0.508
+('PT_8', 'ECTD_wood frame (5)')	0.508
+('PTD_otc alterations permit', 'ECT_5.0')	0.508
+('PT_8', 'ECT_5.0')	0.508
+('PTD_otc alterations permit', 'PT_8', 'ECT_5.0')	0.508
+('PT_8', 'ECTD_wood frame (5)', 'ECT_5.0')	0.508
+('PTD_otc alterations permit', 'PT_8', 'ECTD_wood frame (5)')	0.508
+('PTD_otc alterations permit', 'ECT_5.0', 'ECTD_wood frame (5)')	0.508
+('PT_8', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'ECT_5.0')	0.508
+('PTD_otc alterations permit', 'ECT_5.0', 'PCTD_wood frame (5)')	0.508
+('PT_8', 'ECT_5.0', 'PCTD_wood frame (5)')	0.508
+('PCT_5.0', 'ECT_5.0', 'PT_8')	0.508
+('PTD_otc alterations permit', 'ECTD_wood frame (5)', 'PCTD_wood frame (5)')	0.508
+('PCT_5.0', 'PT_8', 'ECTD_wood frame (5)')	0.508
+('PTD_otc alterations permit', 'PCT_5.0', 'ECT_5.0')	0.508
+('PTD_otc alterations permit', 'PCT_5.0', 'ECTD_wood frame (5)')	0.508
+('PT_8', 'ECTD_wood frame (5)', 'PCTD_wood frame (5)')	0.508
+('ECTD_wood frame (5)', 'PCTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0')	0.508
+('PT_8', 'PTD_otc alterations permit', 'PCT_5.0', 'ECT_5.0')	0.508
+('ECT_5.0', 'PCTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0')	0.508
+('PT_8', 'PCTD_wood frame (5)', 'PCT_5.0', 'ECT_5.0')	0.508
+('PT_8', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0')	0.508
+('ECT_5.0', 'ECTD_wood frame (5)', 'PCTD_wood frame (5)', 'PTD_otc alterations permit')	0.508
+('ECT_5.0', 'PCTD_wood frame (5)', 'PTD_otc alterations permit', 'PT_8')	0.508
+('ECT_5.0', 'ECTD_wood frame (5)', 'PCTD_wood frame (5)', 'PT_8')	0.508
+('PT_8', 'ECTD_wood frame (5)', 'PCT_5.0', 'ECT_5.0')	0.508
+('PT_8', 'ECTD_wood frame (5)', 'PCTD_wood frame (5)', 'PTD_otc alterations permit')	0.508
+('ECT_5.0', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0')	0.508
+('PT_8', 'ECTD_wood frame (5)', 'PCTD_wood frame (5)', 'PCT_5.0')	0.508
+('PT_8', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0', 'ECT_5.0')	0.508
+('PT_8', 'PCTD_wood frame (5)', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'ECT_5.0')	0.508
+('ECT_5.0', 'PCTD_wood frame (5)', 'ECTD_wood frame (5)', 'PCT_5.0', 'PT_8')	0.508
+('PT_8', 'PCTD_wood frame (5)', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0')	0.508
+('ECT_5.0', 'PCTD_wood frame (5)', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0')	0.508
+('PT_8', 'PCTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0', 'ECT_5.0')	0.508
+('PT_8', 'PCTD_wood frame (5)', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0', 'ECT_5.0')	0.508
+('P_2.0',)	0.493
+('P_2.0', 'PT_8')	0.397
+('PTD_otc alterations permit', 'P_2.0')	0.397
+('PTD_otc alterations permit', 'P_2.0', 'PT_8')	0.397
+('P_0.0',)	0.318
+('PT_8', 'P_0.0')	0.315
+('PTD_otc alterations permit', 'P_0.0')	0.315
+('PTD_otc alterations permit', 'PT_8', 'P_0.0')	0.315
+('ECTD_wood frame (5)', 'P_0.0')	0.287
+('ECT_5.0', 'P_0.0')	0.287
+('P_0.0', 'ECTD_wood frame (5)', 'ECT_5.0')	0.287
+('PCT_5.0', 'P_0.0')	0.287
+('P_0.0', 'PCTD_wood frame (5)')	0.287
+('PCT_5.0', 'P_0.0', 'PCTD_wood frame (5)')	0.287
+('P_2.0', 'PCT_5.0')	0.287
+('P_2.0', 'PCTD_wood frame (5)')	0.287
+('P_2.0', 'PCT_5.0', 'PCTD_wood frame (5)')	0.287
+('PCT_5.0', 'PT_8', 'P_0.0')	0.286
+('PT_8', 'P_0.0', 'PCTD_wood frame (5)')	0.286
+('PTD_otc alterations permit', 'P_0.0', 'PCTD_wood frame (5)')	0.286
+('PTD_otc alterations permit', 'PCT_5.0', 'P_0.0')	0.286
+('PT_8', 'PTD_otc alterations permit', 'PCT_5.0', 'P_0.0')	0.286
+('PT_8', 'PCTD_wood frame (5)', 'PCT_5.0', 'P_0.0')	0.286
+('PT_8', 'PCTD_wood frame (5)', 'PTD_otc alterations permit', 'P_0.0')	0.286
+('PCTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0', 'P_0.0')	0.286
+('PT_8', 'PCTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0', 'P_0.0')	0.286
+('P_0.0', 'ECTD_wood frame (5)', 'PCTD_wood frame (5)')	0.285
+('ECT_5.0', 'P_0.0', 'PCTD_wood frame (5)')	0.285
+('PCT_5.0', 'P_0.0', 'ECTD_wood frame (5)')	0.285
+('PCT_5.0', 'ECT_5.0', 'P_0.0')	0.285
+('ECT_5.0', 'ECTD_wood frame (5)', 'PCT_5.0', 'P_0.0')	0.285
+('ECTD_wood frame (5)', 'PCTD_wood frame (5)', 'PCT_5.0', 'P_0.0')	0.285
+('ECT_5.0', 'ECTD_wood frame (5)', 'PCTD_wood frame (5)', 'P_0.0')	0.285
+('ECT_5.0', 'PCTD_wood frame (5)', 'PCT_5.0', 'P_0.0')	0.285
+('ECT_5.0', 'PCTD_wood frame (5)', 'ECTD_wood frame (5)', 'PCT_5.0', 'P_0.0')	0.285
+('P_0.0', 'ECTD_wood frame (5)', 'PT_8')	0.285
+('PT_8', 'P_0.0', 'ECT_5.0')	0.285
+('PTD_otc alterations permit', 'ECT_5.0', 'P_0.0')	0.285
+('PTD_otc alterations permit', 'P_0.0', 'ECTD_wood frame (5)')	0.285
+('PT_8', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'P_0.0')	0.285
+('PT_8', 'ECTD_wood frame (5)', 'P_0.0', 'ECT_5.0')	0.285
+('PT_8', 'PTD_otc alterations permit', 'P_0.0', 'ECT_5.0')	0.285
+('ECT_5.0', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'P_0.0')	0.285
+('PT_8', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'P_0.0', 'ECT_5.0')	0.285
+('PT_8', 'ECTD_wood frame (5)', 'PCTD_wood frame (5)', 'P_0.0')	0.284
+('ECT_5.0', 'PCTD_wood frame (5)', 'PTD_otc alterations permit', 'P_0.0')	0.284
+('ECTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0', 'P_0.0')	0.284
+('ECT_5.0', 'PTD_otc alterations permit', 'PCT_5.0', 'P_0.0')	0.284
+('ECTD_wood frame (5)', 'PCTD_wood frame (5)', 'PTD_otc alterations permit', 'P_0.0')	0.284
+('ECT_5.0', 'PCTD_wood frame (5)', 'P_0.0', 'PT_8')	0.284
+('PT_8', 'PCT_5.0', 'P_0.0', 'ECT_5.0')	0.284
+('PT_8', 'ECTD_wood frame (5)', 'PCT_5.0', 'P_0.0')	0.284
+('ECT_5.0', 'PCTD_wood frame (5)', 'PCT_5.0', 'P_0.0', 'PT_8')	0.284
+('ECT_5.0', 'PCTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0', 'P_0.0')	0.284
+('PT_8', 'PCTD_wood frame (5)', 'ECTD_wood frame (5)', 'PCT_5.0', 'P_0.0')	0.284
+('PT_8', 'PCTD_wood frame (5)', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'P_0.0')	0.284
+('PT_8', 'PCTD_wood frame (5)', 'ECTD_wood frame (5)', 'P_0.0', 'ECT_5.0')	0.284
+('PCTD_wood frame (5)', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0', 'P_0.0')	0.284
+('ECT_5.0', 'ECTD_wood frame (5)', 'PCT_5.0', 'P_0.0', 'PT_8')	0.284
+('ECT_5.0', 'PCTD_wood frame (5)', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'P_0.0')	0.284
+('ECT_5.0', 'PCTD_wood frame (5)', 'PTD_otc alterations permit', 'P_0.0', 'PT_8')	0.284
+('PT_8', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0', 'P_0.0')	0.284
+('PT_8', 'PTD_otc alterations permit', 'PCT_5.0', 'P_0.0', 'ECT_5.0')	0.284
+('ECT_5.0', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0', 'P_0.0')	0.284
+('ECT_5.0', 'PCTD_wood frame (5)', 'ECTD_wood frame (5)', 'PCT_5.0', 'P_0.0', 'PT_8')	0.284
+('ECT_5.0', 'PCTD_wood frame (5)', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'P_0.0', 'PT_8')	0.284
+('PT_8', 'PCTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0', 'P_0.0', 'ECT_5.0')	0.284
+('ECT_5.0', 'PCTD_wood frame (5)', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0', 'P_0.0')	0.284
+('PT_8', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0', 'P_0.0', 'ECT_5.0')	0.284
+('PT_8', 'PCTD_wood frame (5)', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0', 'P_0.0')	0.284
+('ECT_5.0', 'PCTD_wood frame (5)', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0', 'P_0.0', 'PT_8')	0.284
+('P_2.0', 'ECTD_wood frame (5)')	0.282
+('P_2.0', 'ECT_5.0')	0.282
+('P_2.0', 'ECT_5.0', 'ECTD_wood frame (5)')	0.282
+('PCT_5.0', 'P_2.0', 'ECTD_wood frame (5)')	0.276
+('P_2.0', 'PCT_5.0', 'ECT_5.0')	0.276
+('P_2.0', 'ECTD_wood frame (5)', 'PCTD_wood frame (5)')	0.276
+('P_2.0', 'ECT_5.0', 'PCTD_wood frame (5)')	0.276
+('ECTD_wood frame (5)', 'PCTD_wood frame (5)', 'PCT_5.0', 'P_2.0')	0.276
+('ECT_5.0', 'ECTD_wood frame (5)', 'PCTD_wood frame (5)', 'P_2.0')	0.276
+('ECT_5.0', 'ECTD_wood frame (5)', 'PCT_5.0', 'P_2.0')	0.276
+('ECT_5.0', 'PCTD_wood frame (5)', 'P_2.0', 'PCT_5.0')	0.276
+('ECT_5.0', 'PCTD_wood frame (5)', 'P_2.0', 'ECTD_wood frame (5)', 'PCT_5.0')	0.276
+('P_2.0', 'PTD_otc alterations permit', 'PCT_5.0')	0.228
+('P_2.0', 'PT_8', 'PCTD_wood frame (5)')	0.228
+('PCT_5.0', 'P_2.0', 'PT_8')	0.228
+('PTD_otc alterations permit', 'P_2.0', 'PCTD_wood frame (5)')	0.228
+('PT_8', 'PCTD_wood frame (5)', 'PTD_otc alterations permit', 'P_2.0')	0.228
+('PT_8', 'PCTD_wood frame (5)', 'P_2.0', 'PCT_5.0')	0.228
+('PT_8', 'P_2.0', 'PTD_otc alterations permit', 'PCT_5.0')	0.228
+('PCTD_wood frame (5)', 'P_2.0', 'PTD_otc alterations permit', 'PCT_5.0')	0.228
+('PT_8', 'PCTD_wood frame (5)', 'P_2.0', 'PTD_otc alterations permit', 'PCT_5.0')	0.228
+('PTD_otc alterations permit', 'P_2.0', 'ECT_5.0')	0.223
+('PTD_otc alterations permit', 'P_2.0', 'ECTD_wood frame (5)')	0.223
+('P_2.0', 'PT_8', 'ECTD_wood frame (5)')	0.223
+('P_2.0', 'PT_8', 'ECT_5.0')	0.223
+('ECT_5.0', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'P_2.0')	0.223
+('ECT_5.0', 'ECTD_wood frame (5)', 'P_2.0', 'PT_8')	0.223
+('ECT_5.0', 'PTD_otc alterations permit', 'P_2.0', 'PT_8')	0.223
+('PT_8', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'P_2.0')	0.223
+('ECT_5.0', 'P_2.0', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'PT_8')	0.223
+('PT_8', 'ECTD_wood frame (5)', 'PCTD_wood frame (5)', 'P_2.0')	0.223
+('ECTD_wood frame (5)', 'PCTD_wood frame (5)', 'PTD_otc alterations permit', 'P_2.0')	0.223
+('ECTD_wood frame (5)', 'PCT_5.0', 'PTD_otc alterations permit', 'P_2.0')	0.223
+('ECT_5.0', 'P_2.0', 'PCT_5.0', 'PT_8')	0.223
+('ECT_5.0', 'PCT_5.0', 'PTD_otc alterations permit', 'P_2.0')	0.223
+('PT_8', 'ECTD_wood frame (5)', 'PCT_5.0', 'P_2.0')	0.223
+('ECT_5.0', 'PCTD_wood frame (5)', 'PTD_otc alterations permit', 'P_2.0')	0.223
+('PT_8', 'PCTD_wood frame (5)', 'P_2.0', 'ECT_5.0')	0.223
+('PT_8', 'PCTD_wood frame (5)', 'P_2.0', 'ECTD_wood frame (5)', 'PCT_5.0')	0.223
+('ECT_5.0', 'PCTD_wood frame (5)', 'P_2.0', 'ECTD_wood frame (5)', 'PTD_otc alterations permit')	0.223
+('PT_8', 'PCTD_wood frame (5)', 'P_2.0', 'PTD_otc alterations permit', 'ECT_5.0')	0.223
+('PT_8', 'P_2.0', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0')	0.223
+('PT_8', 'P_2.0', 'PTD_otc alterations permit', 'PCT_5.0', 'ECT_5.0')	0.223
+('PCTD_wood frame (5)', 'P_2.0', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0')	0.223
+('ECT_5.0', 'P_2.0', 'ECTD_wood frame (5)', 'PCT_5.0', 'PT_8')	0.223
+('ECT_5.0', 'P_2.0', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0')	0.223
+('PT_8', 'PCTD_wood frame (5)', 'P_2.0', 'ECTD_wood frame (5)', 'PTD_otc alterations permit')	0.223
+('PT_8', 'PCTD_wood frame (5)', 'P_2.0', 'PCT_5.0', 'ECT_5.0')	0.223
+('PT_8', 'PCTD_wood frame (5)', 'P_2.0', 'ECTD_wood frame (5)', 'ECT_5.0')	0.223
+('ECT_5.0', 'PCTD_wood frame (5)', 'P_2.0', 'PTD_otc alterations permit', 'PCT_5.0')	0.223
+('PT_8', 'PCTD_wood frame (5)', 'P_2.0', 'ECTD_wood frame (5)', 'PCT_5.0', 'ECT_5.0')	0.223
+('ECT_5.0', 'PCTD_wood frame (5)', 'P_2.0', 'PTD_otc alterations permit', 'PCT_5.0', 'PT_8')	0.223
+('PT_8', 'P_2.0', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0', 'ECT_5.0')	0.223
+('ECT_5.0', 'PCTD_wood frame (5)', 'P_2.0', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'PT_8')	0.223
+('ECT_5.0', 'PCTD_wood frame (5)', 'P_2.0', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0')	0.223
+('PT_8', 'PCTD_wood frame (5)', 'P_2.0', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0')	0.223
+('PT_8', 'PCTD_wood frame (5)', 'P_2.0', 'ECTD_wood frame (5)', 'PTD_otc alterations permit', 'PCT_5.0', 'ECT_5.0')	0.223

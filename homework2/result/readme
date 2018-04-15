@@ -1,1 +1,4 @@
-
+association_mining.csv 是预处理之后的文件
+frequent_items.txt 是找出的频繁项集结果
+association_rules_by_confidence.txt 是找出的关联规则结果，按置信度降序排列
+association_rules_by_lift.txt 是找出的关联规则结果，按lift值降序排列

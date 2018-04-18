@@ -67,7 +67,6 @@ def runApriori(data_iter, minSupport, minConfidence):
         k = k + 1
 
     def getSupport(item):
-            """local function which Returns the support of an item"""
             return float(freqSet[item])/len(transactionList)
 
     toRetItems = []
